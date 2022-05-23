@@ -1,0 +1,6 @@
+framework module Pods_AssessmentTest_AssessmentTestUITests {
+  umbrella header "Pods-AssessmentTest-AssessmentTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
